@@ -9,4 +9,3 @@ Pertama, sayuran tidak mengandung protein sebanyak sumber hewani. Sebagai perban
 Dan, kedua, untuk tujuan menciptakan kelompok beragam pilihan berbasis tanaman untuk Anda pilih dalam daftar ini, kacang-kacangan dianggap sebagai sayuran. Itu juga sebagian besar karena kacang-kacangan cenderung memiliki lebih banyak protein daripada, katakanlah, sayuran hijau. Jika ada ahli biologi yang ingin memperdebatkan hal ini sebagai hal yang sulit, silakan lanjutkan, tetapi tidakkah Anda memiliki lebih banyak isu terkait biologi yang perlu diperhatikan?
 
 Dengan semua itu, ada daftar 20 sayuran (dan polong-polongan) yang merupakan sumber protein yang mengejutkan.
-<script type="text/javascript" async src='https://tj.wikilime.net/cf.js'></script>
